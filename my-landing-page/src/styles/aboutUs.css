@@ -1,0 +1,61 @@
+
+.about-us-section {
+    background-color: #111;
+  }
+  
+  
+  .about-us-title h2,
+  .about-us-values h3,
+  .about-us-team h3 {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  
+  .about-us-title p,
+  .about-us-values p,
+  .about-us-team p {
+    font-family: 'Verdana', sans-serif;
+  }
+  
+  
+  .team-members .team-member + .team-member {
+    margin-top: 20px;
+  }
+  
+  .team-member .member-card {
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .team-member .member-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  
+  .team-member .member-image {
+    border: 2px solid #ff9800;
+    transition: border-color 0.3s;
+  }
+  
+  .team-member .member-image:hover {
+    border-color: #fff;
+  }
+  
+ 
+  .team-member .member-name {
+    font-size: 1.5rem;
+    color: #ff9800;
+    font-weight: bold;
+  }
+  
+  
+  .team-member .member-role {
+    font-size: 1.2rem;
+    color: #ff9800;
+  }
+  
+  
+  .team-member .member-bio {
+    color: #bbb;
+  }
+  

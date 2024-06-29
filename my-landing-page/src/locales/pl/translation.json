@@ -1,0 +1,257 @@
+{
+    "navbar": {
+      "features": "Funkcje",
+      "workflow": "Przepływ pracy",
+      "aboutUs": "O nas",
+      "gallery": "Galeria",
+      "pricing": "Cennik",
+      "faq": "FAQ",
+      "testimonials": "Referencje",
+      "contact": "Kontakt",
+      "signIn": "Zaloguj się",
+      "createAccount": "Utwórz konto"
+    },
+    "featureSection": {
+        "badge": "Funkcja",
+        "badgeAria": "Odznaka funkcji",
+        "title": "Łatwo buduj swój kod",
+        "features": [
+          {
+            "text": "Interfejs typu Drag-and-Drop",
+            "description": "Łatwo projektuj i aranżuj swoje środowiska VR za pomocą przyjaznego użytkownikowi interfejsu typu drag-and-drop."
+          },
+          {
+            "text": "Wieloplatformowa kompatybilność",
+            "description": "Twórz aplikacje VR, które działają bezproblemowo na różnych platformach, w tym na urządzeniach mobilnych, komputerach i zestawach VR."
+          },
+          {
+            "text": "Wbudowane szablony",
+            "description": "Rozpocznij swoje projekty VR z różnorodnymi wbudowanymi szablonami do różnych typów aplikacji i środowisk."
+          },
+          {
+            "text": "Podgląd w czasie rzeczywistym",
+            "description": "Podglądaj swoją aplikację VR w czasie rzeczywistym podczas dokonywania zmian, co umożliwia szybkie iteracje i dostosowania."
+          },
+          {
+            "text": "Narzędzia do współpracy",
+            "description": "Pracuj razem ze swoim zespołem w czasie rzeczywistym nad projektami VR, co umożliwia płynną współpracę i dzielenie się pomysłami."
+          },
+          {
+            "text": "Pulpit analityczny",
+            "description": "Uzyskaj cenne informacje o interakcjach użytkowników i zachowaniach w Twoich aplikacjach VR dzięki zintegrowanemu pulpitowi analitycznemu."
+          }
+        ]
+      },
+      "heroSection": {
+        "title": "Narzędzia do budowania VirtualR",
+        "titleSpan": "dla programistów",
+        "description": "Wzmocnij swoją kreatywność i wprowadź swoje pomysły na aplikacje VR w życie dzięki naszym intuicyjnym narzędziom do tworzenia. Rozpocznij już dziś i zamień swoją wyobraźnię w rzeczywistość!",
+        "startForFree": "Rozpocznij za darmo",
+        "startForFreeAria": "Przycisk Rozpocznij za darmo",
+        "documentation": "Dokumentacja",
+        "documentationAria": "Przeczytaj Dokumentację",
+        "video1Aria": "Film pokazujący użycie narzędzi do tworzenia VR",
+        "video2Aria": "Film prezentujący immersyjne doświadczenie VR",
+        "videoFallback": "Twoja przeglądarka nie obsługuje znacznika wideo."
+      },
+      "aboutUs": {
+        "title": "O nas",
+        "titleAria": "Sekcja o nas",
+        "mission": "Naszą misją jest wspieranie kreatywności i innowacji w branży VR. Jesteśmy zaangażowani w dostarczanie najlepszych narzędzi i zasobów dla programistów, aby mogli realizować swoje pomysły.",
+        "missionAria": "Nasze oświadczenie misji",
+        "valuesTitle": "Nasze wartości",
+        "valuesTitleAria": "Sekcja naszych wartości",
+        "valuesDescription": "Wierzymy w innowacje, współpracę i zadowolenie klienta. Naszym celem jest tworzenie produktów, które zmieniają życie naszych użytkowników.",
+        "valuesDescriptionAria": "Opis naszych wartości",
+        "teamTitle": "Poznaj zespół",
+        "teamTitleAria": "Sekcja poznaj zespół"
+      },
+      "teamMembers": {
+        "John Dawg": {
+          "name": "John Dawg",
+          "role": "CEO",
+          "bio": "John ma ponad 20 lat doświadczenia w branży technologicznej i jest wizjonerem stojącym za naszą firmą."
+        },
+        "Joe Joe": {
+          "name": "Joe Joe",
+          "role": "CTO",
+          "bio": "Joe jest guru technologii z pasją do innowacji i prowadzenia naszego zespołu technicznego do sukcesu."
+        },
+        "Alice Bonson": {
+          "name": "Alice Bonson",
+          "role": "CFO",
+          "bio": "Alice ma bystre oko do szczegółów i nadzoruje wszystkie aspekty finansowe firmy."
+        }
+      },
+      "pricing": {
+        "title": "Cennik",
+        "titleAria": "Sekcja cennik",
+        "mostPopular": "(Najbardziej popularny)",
+        "perMonth": "/Miesiąc",
+        "subscribe": "Subskrybuj",
+        "subscribeAria": "Subskrybuj ten plan",
+        "options": {
+          "free": {
+            "title": "Darmowy",
+            "price": "0 zł",
+            "ariaLabel": "Darmowy plan z następującymi funkcjami",
+            "features": [
+              "Prywatne udostępnianie tablic",
+              "5 Gb Storage",
+              "Analiza internetowa",
+              "Tryb prywatny"
+            ]
+          },
+          "pro": {
+            "title": "Pro",
+            "price": "10 zł",
+            "ariaLabel": "Plan Pro z następującymi funkcjami",
+            "features": [
+              "Prywatne udostępnianie tablic",
+              "10 Gb Storage",
+              "Zaawansowana analiza internetowa",
+              "Tryb prywatny"
+            ]
+          },
+          "enterprise": {
+            "title": "Enterprise",
+            "price": "200 zł",
+            "ariaLabel": "Plan Enterprise z następującymi funkcjami",
+            "features": [
+              "Prywatne udostępnianie tablic",
+              "Nieograniczone miejsce",
+              "Sieć o wysokiej wydajności",
+              "Tryb prywatny"
+            ]
+          }
+        }
+      },
+   "faq": {
+    "title": "Najczęściej Zadawane Pytania",
+    "questions": [
+      {
+        "question": "Jak mogę skontaktować się z obsługą klienta, jeśli mam pytanie lub problem?",
+        "answer": "Możesz skontaktować się z naszym zespołem obsługi klienta, wysyłając e-mail na adres support@email.com lub dzwoniąc na nasz bezpłatny numer. Jesteśmy tutaj, aby pomóc Ci szybko."
+      },
+      {
+        "question": "Czy mogę zwrócić produkt, jeśli nie spełnia on moich oczekiwań?",
+        "answer": "Absolutnie! Oferujemy politykę zwrotów bezproblemowych. Jeśli nie jesteś w pełni zadowolony, możesz zwrócić produkt w ciągu [liczba dni] dni, aby otrzymać pełny zwrot pieniędzy lub wymianę."
+      },
+      {
+        "question": "Co sprawia, że ​​Twój produkt wyróżnia się na rynku?",
+        "answer": "Nasz produkt wyróżnia się dzięki swojej elastyczności, trwałości i innowacyjnym funkcjom. Priorytetem jest zadowolenie użytkowników, a my nieustannie dążymy do przekraczania oczekiwań we wszystkich aspektach."
+      },
+      {
+        "question": "Czy produkt objęty jest gwarancją i co ona obejmuje?",
+        "answer": "Tak, nasz produkt jest objęty gwarancją trwającą [długość gwarancji]. Obejmuje ona wady materiałowe i wykonawcze. Jeśli napotkasz jakiekolwiek problemy objęte gwarancją, skontaktuj się z naszym działem obsługi klienta, aby uzyskać pomoc."
+      }
+    ]
+  },
+    "testimonials": {
+    "title": "Co mówią ludzie",
+    "feedback": [
+      {
+        "text": "Jestem niezwykle zadowolony z świadczonych usług. Zespół był responsywny, profesjonalny i dostarczył wyniki przewyższające moje oczekiwania.",
+        "user": "John Doe",
+        "company": "Stellar Solutions"
+      },
+      {
+        "text": "Nie mógłbym być bardziej zadowolony z wyników naszego projektu. Kreatywność i umiejętności rozwiązywania problemów zespołu były kluczowe dla urzeczywistnienia naszej wizji.",
+        "user": "Jane Smith",
+        "company": "Blue Horizon Technologies"
+      },
+      {
+        "text": "Współpraca z tą firmą była przyjemnością. Ich dbałość o szczegóły i zaangażowanie w doskonałość są godne pochwały. Gorąco poleciłbym ich każdemu, kto szuka usług najwyższej jakości.",
+        "user": "David Johnson",
+        "company": "Quantum Innovations"
+      },
+      {
+        "text": "Praca z zespołem XYZ Company była przełomowa dla naszego projektu. Ich dbałość o szczegóły i innowacyjne rozwiązania pomogły nam osiągnąć cele szybciej, niż się spodziewaliśmy. Jesteśmy wdzięczni za ich ekspertyzę i profesjonalizm!",
+        "user": "Ronee Brown",
+        "company": "Fusion Dynamics"
+      },
+      {
+        "text": "Jestem pod wrażeniem poziomu profesjonalizmu i zaangażowania zespołu. Udało im się przewyższyć nasze oczekiwania i dostarczyć znakomite wyniki.",
+        "user": "Michael Wilson",
+        "company": "Visionary Creations"
+      },
+      {
+        "text": "Zespół poszedł o krok dalej, aby zapewnić sukces naszego projektu. Ich ekspertyza i zaangażowanie są niezrównane. Z niecierpliwością czekam na dalszą współpracę z nimi w przyszłości.",
+        "user": "Emily Davis",
+        "company": "Synergy Systems"
+      }
+    ]
+  },
+  "footer": {
+    "contactUs": "Skontaktuj się z nami",
+    "name": "Imię",
+    "email": "Email",
+    "phone": "Telefon (opcjonalnie)",
+    "message": "Wiadomość",
+    "submit": "Wyślij",
+    "product": "Produkt",
+    "company": "Firma",
+    "legal": "Prawne",
+    "privacyPolicy": "Polityka prywatności",
+    "termsOfService": "Warunki usługi",
+    "copyright": "Copyright © VirtualR 2024",
+    "resourcesLinks": {
+      "Getting Started": "Rozpoczęcie",
+      "Documentation": "Dokumentacja",
+      "Tutorials": "Samouczki",
+      "API Reference": "Odwołanie API",
+      "Community Forums": "Fora Społeczności"
+    },
+    "platformLinks": {
+      "Features": "Funkcje",
+      "Supported Devices": "Obsługiwane Urządzenia",
+      "System Requirements": "Wymagania Systemowe",
+      "Downloads": "Pobrane",
+      "Release Notes": "Notatki o Wydaniu"
+    },
+    "communityLinks": {
+      "Events": "Wydarzenia",
+      "Meetups": "Spotkania",
+      "Conferences": "Konferencje",
+      "Hackathons": "Hackathony",
+      "Jobs": "Praca"
+    },
+    "errors": {
+      "nameRequired": "Imię jest wymagane",
+      "emailRequired": "Email jest wymagany",
+      "emailInvalid": "Email jest nieprawidłowy",
+      "messageRequired": "Wiadomość jest wymagana"
+    }
+  },
+  "gallery": {
+    "loading": "Ładowanie...",
+    "error": "Błąd podczas ładowania zdjęć",
+    "title": "Galeria",
+    "searchPlaceholder": "Szukaj zdjęć...",
+    "searchButton": "Szukaj"
+  },
+  "workflow": {
+    "title": "Przyspiesz swój",
+    "subtitle": "przepływ pracy kodowania.",
+    "codeImgAlt": "Przykład kodu",
+    "checklist": [
+      {
+        "title": "Łatwe scalanie kodu",
+        "description": "Śledź wydajność swoich aplikacji VR i zdobywaj informacje na temat zachowań użytkowników."
+      },
+      {
+        "title": "Przeglądaj kod bez obaw",
+        "description": "Śledź wydajność swoich aplikacji VR i zdobywaj informacje na temat zachowań użytkowników."
+      },
+      {
+        "title": "Asysta AI dla skrócenia czasu",
+        "description": "Śledź wydajność swoich aplikacji VR i zdobywaj informacje na temat zachowań użytkowników."
+      },
+      {
+        "title": "Udostępniaj pracę w minutach",
+        "description": "Śledź wydajność swoich aplikacji VR i zdobywaj informacje na temat zachowań użytkowników."
+      }
+    ]
+  }
+  }
+  

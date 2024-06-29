@@ -1,0 +1,260 @@
+{
+    "navbar": {
+      "features": "Features",
+      "workflow": "Workflow",
+      "gallery": "Gallery",
+      "aboutUs": "About Us",
+      "pricing": "Pricing",
+      "faq": "FAQ",
+      "testimonials": "Testimonials",
+      "contact": "Contact",
+      "signIn": "Sign In",
+      "createAccount": "Create Account"
+    },
+    "featureSection": {
+        "badge": "Feature",
+        "badgeAria": "Feature Badge",
+        "title": "Easily build your code",
+        "features": [
+          {
+            "text": "Drag-and-Drop Interface",
+            "description": "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface."
+          },
+          {
+            "text": "Multi-Platform Compatibility",
+            "description": "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets."
+          },
+          {
+            "text": "Built-in Templates",
+            "description": "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments."
+          },
+          {
+            "text": "Real-Time Preview",
+            "description": "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments."
+          },
+          {
+            "text": "Collaboration Tools",
+            "description": "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing."
+          },
+          {
+            "text": "Analytics Dashboard",
+            "description": "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard."
+          }
+        ]
+      },
+  
+      "heroSection": {
+        "title": "VirtualR build tools",
+        "titleSpan": "for developers",
+        "description": "Empower your creativity and bring your VR apps ideas to life with our intuitive development tools. Get Started today and turn your imagination into immersive reality!",
+        "startForFree": "Start for free",
+        "startForFreeAria": "Start for free button",
+        "documentation": "Documentation",
+        "documentationAria": "Read Documentation",
+        "video1Aria": "Video demonstrating VR development tools in use",
+        "video2Aria": "Video showcasing immersive VR experience",
+        "videoFallback": "Your browser does not support the video tag."
+      },
+  
+  
+      "aboutUs": {
+        "title": "About Us",
+        "titleAria": "About Us Section",
+        "mission": "Our mission is to empower creativity and innovation in the VR industry. We are committed to providing the best tools and resources for developers to bring their ideas to life.",
+        "missionAria": "Our mission statement",
+        "valuesTitle": "Our Values",
+        "valuesTitleAria": "Our Values Section",
+        "valuesDescription": "We believe in innovation, collaboration, and customer satisfaction. Our goal is to create products that make a difference in the lives of our users.",
+        "valuesDescriptionAria": "Our values description",
+        "teamTitle": "Meet the Team",
+        "teamTitleAria": "Meet the Team Section"
+      },
+      "teamMembers": {
+        "John Dawg": {
+          "name": "John Dawg",
+          "role": "CEO",
+          "bio": "John has over 20 years of experience in the tech industry and is the visionary behind our company."
+        },
+        "Joe Joe": {
+          "name": "Joe Joe",
+          "role": "CTO",
+          "bio": "Joe is a tech guru with a passion for innovation and leading our technical team to success."
+        },
+        "Alice Bonson": {
+          "name": "Alice Bonson",
+          "role": "CFO",
+          "bio": "Alice has a keen eye for detail and oversees all financial aspects of the company."
+        }
+      },
+      "pricing": {
+        "title": "Pricing",
+        "titleAria": "Pricing Section",
+        "mostPopular": "(Most Popular)",
+        "perMonth": "/Month",
+        "subscribe": "Subscribe",
+        "subscribeAria": "Subscribe to this plan",
+        "options": {
+          "free": {
+            "title": "Free",
+            "price": "$0",
+            "ariaLabel": "Free plan with the following features",
+            "features": [
+              "Private board sharing",
+              "5 Gb Storage",
+              "Web Analytics",
+              "Private Mode"
+            ]
+          },
+          "pro": {
+            "title": "Pro",
+            "price": "$10",
+            "ariaLabel": "Pro plan with the following features",
+            "features": [
+              "Private board sharing",
+              "10 Gb Storage",
+              "Web Analytics (Advance)",
+              "Private Mode"
+            ]
+          },
+          "enterprise": {
+            "title": "Enterprise",
+            "price": "$200",
+            "ariaLabel": "Enterprise plan with the following features",
+            "features": [
+              "Private board sharing",
+              "Unlimited Storage",
+              "High Performance Network",
+              "Private Mode"
+            ]
+          }
+        }
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "questions": [
+          {
+            "question": "How do I contact customer support if I have a question or issue?",
+            "answer": "You can reach our customer support team by emailing support@email.com or calling our toll-free number. We're here to assist you promptly."
+          },
+          {
+            "question": "Can I return the product if it doesn't meet my expectations?",
+            "answer": "Absolutely! We offer a hassle-free return policy. If you're not completely satisfied, you can return the product within [number of days] days for a full refund or exchange."
+          },
+          {
+            "question": "What makes your product stand out from others in the market?",
+            "answer": "Our product distinguishes itself through its adaptability, durability, and innovative features. We prioritize user satisfaction and continually strive to exceed expectations in every aspect."
+          },
+          {
+            "question": "Is there a warranty on the product, and what does it cover?",
+            "answer": "Yes, our product comes with a [length of warranty] warranty. It covers defects in materials and workmanship. If you encounter any issues covered by the warranty, please contact our customer support for assistance."
+          }
+        ]
+      },
+    "testimonials": {
+    "title": "What people are saying",
+    "feedback": [
+      {
+        "text": "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+        "user": "John Doe",
+        "company": "Stellar Solutions"
+      },
+      {
+        "text": "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life.",
+        "user": "Jane Smith",
+        "company": "Blue Horizon Technologies"
+      },
+      {
+        "text": "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+        "user": "David Johnson",
+        "company": "Quantum Innovations"
+      },
+      {
+        "text": "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+        "user": "Ronee Brown",
+        "company": "Fusion Dynamics"
+      },
+      {
+        "text": "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+        "user": "Michael Wilson",
+        "company": "Visionary Creations"
+      },
+      {
+        "text": "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+        "user": "Emily Davis",
+        "company": "Synergy Systems"
+      }
+    ]
+  },
+  "footer": {
+    "contactUs": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone (optional)",
+    "message": "Message",
+    "submit": "Submit",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "copyright": "Copyright © VirtualR 2024",
+    "resourcesLinks": {
+      "Getting Started": "Getting Started",
+      "Documentation": "Documentation",
+      "Tutorials": "Tutorials",
+      "API Reference": "API Reference",
+      "Community Forums": "Community Forums"
+    },
+    "platformLinks": {
+      "Features": "Features",
+      "Supported Devices": "Supported Devices",
+      "System Requirements": "System Requirements",
+      "Downloads": "Downloads",
+      "Release Notes": "Release Notes"
+    },
+    "communityLinks": {
+      "Events": "Events",
+      "Meetups": "Meetups",
+      "Conferences": "Conferences",
+      "Hackathons": "Hackathons",
+      "Jobs": "Jobs"
+    },
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid",
+      "messageRequired": "Message is required"
+    }
+  },
+  "gallery": {
+    "loading": "Loading...",
+    "error": "Error loading photos",
+    "title": "Gallery",
+    "searchPlaceholder": "Search for photos...",
+    "searchButton": "Search"
+  },
+  "workflow": {
+    "title": "Accelerate your",
+    "subtitle": "coding workflow.",
+    "codeImgAlt": "Code example",
+    "checklist": [
+      {
+        "title": "Code merge made easy",
+        "description": "Track the performance of your VR apps and gain insights into user behavior."
+      },
+      {
+        "title": "Review code without worry",
+        "description": "Track the performance of your VR apps and gain insights into user behavior."
+      },
+      {
+        "title": "AI Assistance to reduce time",
+        "description": "Track the performance of your VR apps and gain insights into user behavior."
+      },
+      {
+        "title": "Share work in minutes",
+        "description": "Track the performance of your VR apps and gain insights into user behavior."
+      }
+    ]
+  }
+  }
+  
